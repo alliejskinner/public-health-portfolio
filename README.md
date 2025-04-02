@@ -18,7 +18,11 @@ After taking time off to raise a family, I'm diving back into the field—combin
 - Git & GitHub
 - Streamlit / Tableau (coming soon!)
 
-### Projects (Coming Soon)
+### Projects
+
+- **[Exploring Health Risk Factors in Simulated Patient Data](https://github.com/alliejskinner/public-health-portfolio/blob/main/eda_public_health_notebook.ipynb)**  
+  A beginner-friendly exploratory data analysis (EDA) of a fictional public health dataset. This notebook examines relationships between BMI, smoking, age, and diabetes, using visualizations and simple statistics to draw key insights.
+
 - [x] Sample Dataset: Public health patient data
 - [ ] EDA + visualization notebook
 - [ ] Diabetes prediction model
